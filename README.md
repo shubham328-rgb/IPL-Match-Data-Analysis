@@ -61,7 +61,6 @@ The analysis was completed using:
 
 - **Python**
 - **Pandas** – Data manipulation and transformation
-- **NumPy** – Numerical operations
 - **Matplotlib** – Graphical visualization
 
 ---
